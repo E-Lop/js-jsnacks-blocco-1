@@ -1,0 +1,18 @@
+/*** RESET ***/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*** BODY ***/
+
+#red {
+  color: red;
+  font-size: 3rem;
+}
+
+#green {
+  color: green;
+  font-size: 3rem;
+}
